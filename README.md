@@ -1,4 +1,4 @@
-# Python venv Summary
+# Python Virtual Environment Summary
 
 In this document I collect everything for a summary on Python's virtual environments.
 
@@ -25,11 +25,13 @@ conda create -n myenv python
 
 ## Configuring conda-forge
 
-
+```
 conda config --add channels conda-forge
 conda config --set channel_priority strict 
-
+```
 
 ## Installing packages
 
-
+```
+conda install 
+```
