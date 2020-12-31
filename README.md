@@ -23,6 +23,12 @@ conda create -n myenv python
 ```
 
 
+## Listing all virtual environments
+
+``
+conda info --envs
+``
+
 ## Configuring conda-forge
 
 ```
