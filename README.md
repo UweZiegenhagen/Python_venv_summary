@@ -22,12 +22,19 @@ I have made good experiences with the Anaconda Python distribution. Anaconda als
 conda create -n myenv python
 ```
 
-
 ## Listing all virtual environments
 
 ``
 conda info --envs
 ``
+
+
+## Activating an environment
+
+```
+conda activate myenv
+```
+
 
 ## Configuring conda-forge
 
